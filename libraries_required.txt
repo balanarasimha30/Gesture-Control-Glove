@@ -1,0 +1,5 @@
+Required Libraries:
+
+1. Adafruit ADXL345
+2. Adafruit Unified Sensor
+3. Keyboard Library (Built-in for Arduino Leonardo)
